@@ -20,14 +20,17 @@ I received my **B.Eng. in Computer Science** from **Central South University**, 
 
 ### Selected publications
 
+- **[LIFe: Learning Native Interaction via Local Interaction Fields](https://qihanzhao.github.io/LIFe/)**  
+  *Under Review · First Author* · [Page](https://qihanzhao.github.io/LIFe/)
+  
 - **[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://wyhuai.github.io/human-x/)**  
-  *CoRL 2026 · Equal contribution* · [Paper](https://arxiv.org/abs/2602.02473) · [Code](https://github.com/wyhuai/HumanX)
-
-- **[Switch: Learning Agile Skills Switching for Humanoid Robots](https://arxiv.org/abs/2604.14834)**  
-  *ICRA 2026 · Equal contribution* · [Paper](https://arxiv.org/abs/2604.14834)
+  *CoRL 2026 · Co-first Author* · [Paper](https://arxiv.org/abs/2602.02473) · [Code](https://github.com/wyhuai/HumanX)
 
 - **[SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations](https://ingrid789.github.io/SkillMimicV2/)**  
-  *SIGGRAPH 2025 · Equal contribution* · [Paper](https://arxiv.org/abs/2505.02094) · [Code](https://github.com/Ingrid789/SkillMimic-V2) · [Video](https://youtu.be/jk94jXUsyhE)
+  *SIGGRAPH 2025 · Co-first Author* · [Paper](https://arxiv.org/abs/2505.02094) · [Code](https://github.com/Ingrid789/SkillMimic-V2) · [Video](https://youtu.be/jk94jXUsyhE)
 
 - **[SkillMimic: Learning Basketball Interaction Skills from Demonstrations](https://ingrid789.github.io/SkillMimic/)**  
-  *CVPR 2025 Highlight · Equal contribution* · [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SkillMimic_Learning_Basketball_Interaction_Skills_from_Demonstrations_CVPR_2025_paper.html) · [Code](https://github.com/wyhuai/SkillMimic) · [Video](https://youtu.be/j1smsXilUGM)
+  *CVPR 2025 Highlight · Co-first Author* · [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SkillMimic_Learning_Basketball_Interaction_Skills_from_Demonstrations_CVPR_2025_paper.html) · [Code](https://github.com/wyhuai/SkillMimic) · [Video](https://youtu.be/j1smsXilUGM)
+
+- **[Switch: Learning Agile Skills Switching for Humanoid Robots](https://arxiv.org/abs/2604.14834)**  
+*ICRA 2026 · Co-first Author* · [Paper](https://arxiv.org/abs/2604.14834)
